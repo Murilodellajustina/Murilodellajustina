@@ -1,7 +1,7 @@
 Olá! Eu me chamo Murilo Della Justina
 
 - 🔭 Atualmente estou trabalhando na empresa CISAMURES como estágiario.  
-- 🌱 Estou cursando o curso de ciência da computação no IFSC câmpus Lages.
+- 🌱 Estou cursando o curso de ciência da computação no IFSC campus Lages.
 - 💬 Pergunte-me sobre o que tiver interesse em saber.
 - 📫 Como chegar até mim: murilod.j1307@gmail.com
 - ⚡ Curiosidade: Tenho apenas 17 anos 
