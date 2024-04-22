@@ -8,13 +8,8 @@
 - 💬 Pergunte-me sobre o que tiver interesse em saber.
 - 📫 Como chegar até mim: murilod.j1307@gmail.com
 - ⚡ Curiosidade: Tenho apenas 17 anos
-<div>
-    <a href="https://github.com/Murilodellajustina">
-        <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Murilodellajustina&show_icons-true&theme-dark&include_all_commits=true&coun0t_private-true"/>
-        <img right="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodellajustina&layout-compact&langs_count=168&theme-dark"/>
-    </a>
-  
-</div>
+- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murilodellajustina&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodellajustina&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
