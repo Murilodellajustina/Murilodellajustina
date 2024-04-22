@@ -1,6 +1,6 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-[<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw3ItkdeO08DyBN0IF3sj9xf&ust=1713879058452000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNDP7Zr31YUDFQAAAAAdAAAAABAc)
+<img align="rigth" alt="coding" withd="400" src="[https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media](https://iconscout.com/lottie-animation/programmer-11006715)">
 Olá! Eu me chamo Murilo Della Justina
 - 🔭 Atualmente estou trabalhando na empresa CISAMURES como estágiario.  
 - 🌱 Estou cursando o curso de ciência da computação no IFSC câmpus Lages.
