@@ -1,4 +1,5 @@
 Olá! Eu me chamo Murilo Della Justina
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
 
 - 🔭 Atualmente estou trabalhando na empresa CISAMURES como estágiario.  
 - 🌱 Estou cursando o curso de ciência da computação no IFSC câmpus Lages.
