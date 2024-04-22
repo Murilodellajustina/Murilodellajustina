@@ -20,6 +20,7 @@ Olá! Eu me chamo Murilo Della Justina
 <div>
   <a href = "mailto:murilod,j1307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/murilodellajustina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <p>-----------------------------------------------------------------------------------------------------------</p>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murilodellajustina/Murilodellajustina/output/github-contribution-grid-snake-dark.svg">
