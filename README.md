@@ -7,15 +7,16 @@
 - 🌱 Estou cursando o curso de ciência da computação no IFSC câmpus Lages.
 - 💬 Pergunte-me sobre o que tiver interesse em saber.
 - 📫 Como chegar até mim: murilod.j1307@gmail.com
-- ⚡ Curiosidade: Tenho apenas 17 anos
+- ⚡ Curiosidade: Tenho apenas 17 anos!
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murilodellajustina&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodellajustina&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <div/>
 <div>
     <p>Entre em contato comigo:</p>
