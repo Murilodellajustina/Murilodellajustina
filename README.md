@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-- 🔭 Atualmente estou trabalhando na empresa CISAMURES como estágiario.  
-- 🌱 Estou cursando o curso de ciência da computação no IFSC câmpus Lages.
+- 🔭 Atualmente estou trabalhando na empresa CISAMURES como assessor administrativo.  
+- 🌱 Estou cursando ciência da computação no IFSC câmpus Lages.
 - 💬 Pergunte-me sobre o que tiver interesse em saber.
 - 📫 Como chegar até mim: murilod.j1307@gmail.com
-- ⚡ Curiosidade: Tenho apenas 18 anos!
+- ⚡ Curiosidade: Tenho apenas 19 anos!
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murilodellajustina&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodellajustina&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
