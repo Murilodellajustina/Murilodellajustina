@@ -7,7 +7,6 @@
 - 🌱 Estou cursando ciência da computação no IFSC câmpus Lages.
 - 💬 Pergunte-me sobre o que tiver interesse em saber.
 - 📫 Como chegar até mim: murilod.j1307@gmail.com
-- ⚡ Curiosidade: Tenho apenas 19 anos!
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murilodellajustina&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilodellajustina&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
