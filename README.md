@@ -25,7 +25,7 @@
           
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilodellajustina/murilodellajustina/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilodellajustina/murilodellajustina/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murilodellajustina/murilodellajustina/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murilodellajustina/Murilodellajustina/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murilodellajustina/Murilodellajustina/output/github-contribution-grid-snake.svg">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Murilodellajustina&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 </picture>
